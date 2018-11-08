@@ -1,6 +1,7 @@
 # 기여자 소개
 
-![](../Images/AJH/Profile.jpg)
+<img src="../Images/AJH/Profile.jpg" width="50%" height="50%">  
+
 ~~그나마 프로필 중에서 제일 엽사 같은 것 골라봄~~ ~~사실 외모가 호러라 얼굴 자체가 엽사~~  
 - 이름: 안정현
 - 나이: 생후 8,800일 전후
@@ -18,8 +19,7 @@ __솔로주의의 총대주교__
 
 # 사진 모음
 
-![](../Images/AJH/AprilFool_1.jpg)
-![](../Images/AJH/AprilFool_2.jpg)  
+<img src="../Images/AJH/AprilFool_1.jpg" width=300 height=450> <img src="../Images/AJH/AprilFool_2.jpg" width=300 height=450>    
 2018년 만우절 기념으로 페이스북 팔로워에게 받은 축전이다. ~~前 대통령과 現 대통령의 오묘한 조합~~ ~~2012년 대선 리바이벌~~
 
 # 흐음위키에 하고 싶은 말
